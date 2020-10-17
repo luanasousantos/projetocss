@@ -1,0 +1,63 @@
+/*Todos*/
+body {
+   background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links{
+    background-color: rgb(21, 75, 224);
+}
+
+.links a {
+    color:white ;
+}
+
+#formas_pagamento {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* página inicial*/
+#titulo_inicial {
+    background-color: rgb(187, 176, 176);
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: auto;
+}
+
+#texto_cliente {font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    padding: 30 px;
+    display: grid;
+    
+}
+
+/*Nossas lojas*/
+#enderecos_lojas {
+    background-color:silver;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Produtos*/
+.produtos {
+    color:rgb(55, 47, 63);
+    font-family: cursive;
+    
+    }
+
+#lista_produtos {
+    background-color:rgb(131, 146, 226);
+    font-style: italic;
+}
+
+.produtos_imagens {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small
+}
+
+/*Contatos*/
+.contatos {
+    background-color: rgb(223, 234, 238);
+}
